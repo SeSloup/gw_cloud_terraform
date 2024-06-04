@@ -1,0 +1,19 @@
+---
+- name: Configure nginx
+  hosts: all
+  vars:
+    ansible_python_interpreter: /usr/bin/python3
+  tasks:
+    - name: install nginx
+      ansible.builtin.package:
+        name: nginx
+        
+    - name: copy config
+      ansible.builtin.template:
+        src: nginx.conf.my
+        dest: /etc/nginx/nginx.conf
+        
+    - name: restart service
+      ansible.builtin.service:
+        name: nginx        
+        state: restart

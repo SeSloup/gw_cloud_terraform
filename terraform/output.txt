@@ -1,0 +1,2 @@
+external_ip_address_vm_1 = "84.201.179.210"
+internal_ip_address_vm_1 = "192.168.10.29"
