@@ -66,11 +66,14 @@
 
 Ответ:
 
-*1. ![Terraform Playbook.](https://github.com/SeSloup/gw_cloud_terraform/blob/main/terraform/home_netology_yx/resources_yx_cloud.tf)*
+*1. `Terraform Playbook.`
+![Terraform Playbook.](https://github.com/SeSloup/gw_cloud_terraform/blob/main/terraform/home_netology_yx/resources_yx_cloud.tf)*
 
-*2. ![Скриншот статуса балансировщика и целевой группы.](https://github.com/SeSloup/gw_cloud_terraform/blob/main/screens/Screenshot%20from%202024-06-05%2000-06-43.png)*
+*2. `Скриншот статуса балансировщика и целевой группы.`
+![Скриншот статуса балансировщика и целевой группы.](https://github.com/SeSloup/gw_cloud_terraform/blob/main/screens/Screenshot%20from%202024-06-05%2000-06-43.png)*
 
-*3. ![Скриншот страницы, которая открылась при запросе IP-адреса балансировщика.](https://github.com/SeSloup/gw_cloud_terraform/blob/main/screens/Screenshot%20from%202024-06-05%2000-07-14.png)*
+*3. `Скриншот страницы, которая открылась при запросе IP-адреса балансировщика.`
+![Скриншот страницы, которая открылась при запросе IP-адреса балансировщика.](https://github.com/SeSloup/gw_cloud_terraform/blob/main/screens/Screenshot%20from%202024-06-05%2000-07-14.png)*
 
 
 -------------------------------
